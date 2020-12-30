@@ -20,7 +20,7 @@ For a total of 839 Theater plays from 2010 to 2017 the fundraising projects were
 May had the highest success rate at 67% followed by June at 65%. The months of March,April, July were behind by 2%. 
 
 
-The related chart is called [Theater_outcome_vs_Launch]()
+The related chart is called [Theater_outcome_vs_Launch](resources/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
