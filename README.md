@@ -1,11 +1,13 @@
-# Fundraising Analysis for Theater Plays on Kickstarter with Excel
+# An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
+
+This project analyzes an Excel dataset from Kickstarter to find and mirror the success trends
 
 ### Purpose
 #
 
-This project is to analyze and mirror the success of other fundraising theater plays on Kickstarter to help Louise raise $10,000 to fund her favourite Play "Fever" 
+To help Louise raise $10,000 to fund her favourite Play "Fever" 
 
 ## Analysis and Challenges
 
@@ -17,7 +19,8 @@ For a total of 839 Theater plays from 2010 to 2017 the fundraising projects were
 
 May had the highest success rate at 67% followed by June at 65%. The months of March,April, July were behind by 2%. 
 
-The related chart is located in resources folder under "Theater_outcome_vs_Launch"
+
+The related chart is called [Theater_outcome_vs_Launch]()
 
 
 ### Analysis of Outcomes Based on Goals
@@ -51,14 +54,14 @@ Using hard code in function COUNTIFS criteria to produce results in the table of
  
 - What are some limitations of this dataset?
 
-      Lack of some information such as the type of the production (Comedy,Drama,...) that could have an impact on the success of the fundraising.
+     Lack of some information such as the type of the production (Comedy,Drama,...) that could have an impact on the success of the fundraising.
   
 
 - What are some other possible tables and/or graphs that we could create?
 
-      Adding percentages on the caluculations for launch beasd on date
+     Adding percentages on the caluculations for launch beasd on date
 
-      A table/graph shows the number of backers and average donation for Theater plays
+     A table/graph shows the number of backers and average donation for Theater plays
 
      A table/graph shows the success rates of staff picked production
 
