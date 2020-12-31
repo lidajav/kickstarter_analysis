@@ -19,8 +19,7 @@ For a total of 839 Theater plays from 2010 to 2017 the fundraising projects were
 
 May had the highest success rate at 67% followed by June at 65%. The months of March,April, July were behind by 2%. 
 
-Click [Here](resources/Outcomes_vs_Goals.png) to view the chart.
-
+![The Chart based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 #
@@ -31,7 +30,7 @@ Majority of the fundraisers for the plays had a goal between $1000 and $5000.
 
 The success rate of fudraisers for Plays with a goal of $5000-$10,000 was 55%.
 
-Click [Here](resources/Theater_Outcomes_vs_Launch.png) to view the chart.
+![The Chart based on Launch dates](resources/Theater_Outcomes_vs_Launch.png) 
 
 ### Challenges and Difficulties Encountered
 #
